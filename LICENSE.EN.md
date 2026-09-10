@@ -52,13 +52,17 @@ Assets originating from a YMCCREATION creation may not be extracted and reused i
 
 This includes, but is not limited to:
 
-code; scripts; textures; models; sprites; sounds; music; images; animations; maps; levels; documents; other original resources. 7. [OPENSOURCE] Projects 
+code; scripts; textures; models; sprites; sounds; music; images; animations; maps; levels; documents; other original resources. 
+
+7. [OPENSOURCE] Projects 
 
 When a YMCCREATION project clearly contains the [OPENSOURCE] designation in its official description, YMCCREATION grants users permission to modify, adapt, and reuse the project, subject to the rules below.
 
 Users may, among other things:
 
-modify the code; modify project files; create derivative versions; adapt the project; reuse permitted elements; publish their modifications; use the project as a basis for another creation. 7.1 Mandatory Credit 
+modify the code; modify project files; create derivative versions; adapt the project; reuse permitted elements; publish their modifications; use the project as a basis for another creation. 
+
+7.1 Mandatory Credit 
 
 Any creation using any part of a YMCCREATION project marked [OPENSOURCE] must clearly credit YMCCREATION / YMCCREATION STUDIO.
 
@@ -74,7 +78,9 @@ The wording may be adapted to the context, but the original creator must remain 
 
 The [OPENSOURCE] designation does not give users permission to:
 
-claim to be YMCCREATION; claim to be the original creator of the project; remove the original credits; present a YMCCREATION creation as entirely their own; present a modified version as the official version; falsely claim that YMCCREATION officially supports or approves a derivative version; use the YMCCREATION name or logo to create a false affiliation. 7.3 Misuse 
+claim to be YMCCREATION; claim to be the original creator of the project; remove the original credits; present a YMCCREATION creation as entirely their own; present a modified version as the official version; falsely claim that YMCCREATION officially supports or approves a derivative version; use the YMCCREATION name or logo to create a false affiliation. 
+
+7.3 Misuse 
 
 The [OPENSOURCE] designation does not grant permission to use YMCCREATION creations for illegal, fraudulent, malicious, or harmful activities targeting YMCCREATION or other people.
 
@@ -98,7 +104,9 @@ An [ARCHIVER] project may continue to be used according to the permissions provi
 
 Users may not:
 
-claim to be the original creator; steal or appropriate the creation; republish the creation as their own; remove credits; falsely present the creation as their official work; sell the original creation without permission. 9. Derivative Works 
+claim to be the original creator; steal or appropriate the creation; republish the creation as their own; remove credits; falsely present the creation as their official work; sell the original creation without permission. 
+
+9. Derivative Works 
 
 A derivative work is a creation based on all or part of a YMCCREATION creation.
 
@@ -106,7 +114,9 @@ For standard projects, derivative works are not permitted without permission.
 
 For [OPENSOURCE] projects, derivative works are permitted provided that they comply with, among other things:
 
-mandatory credit requirements; the prohibition on impersonation; any additional rules specified in the project's description. 10. Videos, Streams, and Online Content 
+mandatory credit requirements; the prohibition on impersonation; any additional rules specified in the project's description. 
+
+10. Videos, Streams, and Online Content 
 
 Users may feature YMCCREATION creations in:
 
@@ -130,7 +140,9 @@ Simply featuring a project in monetized content does not automatically constitut
 
 Users may not:
 
-intentionally remove copyright information; claim to have created a YMCCREATION creation; present themselves as YMCCREATION; use the YMCCREATION name to mislead users; present an unofficial version as an official version; create a false impression of partnership, endorsement, or approval. 13. Third-Party Content 
+intentionally remove copyright information; claim to have created a YMCCREATION creation; present themselves as YMCCREATION; use the YMCCREATION name to mislead users; present an unofficial version as an official version; create a false impression of partnership, endorsement, or approval. 
+
+13. Third-Party Content 
 
 Some YMCCREATION creations may contain content belonging to third parties.
 
