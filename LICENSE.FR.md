@@ -58,7 +58,9 @@ Lorsqu'un projet YMCCREATION comporte clairement la mention [OPENSOURCE] dans sa
 
 Les utilisateurs peuvent notamment :
 
-modifier le code ; modifier les fichiers ; créer des versions dérivées ; adapter le projet ; réutiliser les éléments autorisés ; publier leurs modifications ; utiliser le projet comme base pour une autre création. 7.1 Crédits obligatoires 
+modifier le code ; modifier les fichiers ; créer des versions dérivées ; adapter le projet ; réutiliser les éléments autorisés ; publier leurs modifications ; utiliser le projet comme base pour une autre création. 
+
+7.1 Crédits obligatoires 
 
 Toute création utilisant une partie d'un projet YMCCREATION marqué [OPENSOURCE] doit créditer clairement YMCCREATION / YMCCREATION STUDIO.
 
@@ -74,7 +76,9 @@ Le crédit peut être adapté au contexte, mais l'origine de la création doit r
 
 Le statut [OPENSOURCE] n'autorise pas l'utilisateur à :
 
-prétendre être YMCCREATION ; prétendre être l'auteur original du projet ; supprimer les crédits originaux ; présenter une création YMCCREATION comme étant entièrement la sienne ; faire croire qu'une version modifiée est la version officielle ; faire croire que YMCCREATION soutient ou approuve officiellement une version dérivée ; utiliser le nom ou le logo de YMCCREATION pour créer une fausse affiliation. 7.3 Utilisation abusive 
+prétendre être YMCCREATION ; prétendre être l'auteur original du projet ; supprimer les crédits originaux ; présenter une création YMCCREATION comme étant entièrement la sienne ; faire croire qu'une version modifiée est la version officielle ; faire croire que YMCCREATION soutient ou approuve officiellement une version dérivée ; utiliser le nom ou le logo de YMCCREATION pour créer une fausse affiliation. 
+
+7.3 Utilisation abusive 
 
 Le statut [OPENSOURCE] ne constitue pas une autorisation d'utiliser les créations YMCCREATION pour des activités illégales, frauduleuses, malveillantes ou visant à nuire à YMCCREATION ou à d'autres personnes.
 
@@ -98,7 +102,9 @@ Un projet [ARCHIVER] peut continuer à être utilisé conformément aux autorisa
 
 L'utilisateur ne doit cependant pas :
 
-prétendre être l'auteur original ; voler ou s'approprier la création ; republier la création comme étant la sienne ; supprimer les crédits ; faire croire qu'il s'agit d'une création officielle de sa part ; vendre la création originale sans autorisation. 9. Créations dérivées 
+prétendre être l'auteur original ; voler ou s'approprier la création ; republier la création comme étant la sienne ; supprimer les crédits ; faire croire qu'il s'agit d'une création officielle de sa part ; vendre la création originale sans autorisation. 
+
+9. Créations dérivées 
 
 Une création dérivée est une création basée sur tout ou partie d'une création YMCCREATION.
 
@@ -106,7 +112,9 @@ Pour les projets standards, les créations dérivées ne sont pas autorisées sa
 
 Pour les projets [OPENSOURCE], les créations dérivées sont autorisées à condition de respecter notamment :
 
-les crédits obligatoires ; l'interdiction d'usurpation ; les éventuelles règles supplémentaires indiquées dans la description du projet. 10. Vidéos, streams et contenu en ligne 
+les crédits obligatoires ; l'interdiction d'usurpation ; les éventuelles règles supplémentaires indiquées dans la description du projet. 
+
+10. Vidéos, streams et contenu en ligne 
 
 Les utilisateurs peuvent présenter les créations YMCCREATION dans :
 
