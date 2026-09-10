@@ -138,7 +138,9 @@ La simple présentation d'un projet dans un contenu monétisé ne constitue pas 
 
 Il est interdit de :
 
-supprimer volontairement les informations de copyright ; prétendre avoir créé une création YMCCREATION ; se présenter comme YMCCREATION ; utiliser le nom de YMCCREATION pour tromper les utilisateurs ; présenter une version non officielle comme une version officielle ; créer une fausse impression de partenariat ou d'approbation. 13. Contenu appartenant à des tiers 
+supprimer volontairement les informations de copyright ; prétendre avoir créé une création YMCCREATION ; se présenter comme YMCCREATION ; utiliser le nom de YMCCREATION pour tromper les utilisateurs ; présenter une version non officielle comme une version officielle ; créer une fausse impression de partenariat ou d'approbation. 
+
+13. Contenu appartenant à des tiers 
 
 Certaines créations YMCCREATION peuvent contenir du contenu appartenant à des tiers.
 
