@@ -176,7 +176,7 @@ Sauf indication contraire, une nouvelle version de la licence ne modifie pas ré
 
 En téléchargeant, installant, utilisant, modifiant ou redistribuant une création YMCCREATION, l'utilisateur reconnaît avoir pris connaissance des règles applicables à cette création et accepte de les respecter.
 
-Lorsqu'un projet possède une mention particulière telle que [OPENSOURCE] ou [ARCHIVER], cette mention doit être prise en compte avec les règles de la présente licence.
+Lorsqu'un projet possède une mention particulière telle que [OPENSOURCE] ou [ARCHIVER], cette mention doit être prise en compte avec les règles présente licence.
 
 Résumé des statuts 
 
