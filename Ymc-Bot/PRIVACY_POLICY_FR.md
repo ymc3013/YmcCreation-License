@@ -22,7 +22,9 @@ Les données effectivement traitées dépendent des fonctionnalités activées. 
 
 Les données peuvent être utilisées pour :
 
-Fournir les fonctionnalités du bot. Gérer la modération et la sécurité des serveurs. Assurer la vérification des membres. Traiter les tickets d'assistance et les candidatures. Gérer les informations relatives aux projets de YmcCreation. Diagnostiquer les erreurs et améliorer la fiabilité du bot. 4. Conservation des données 
+Fournir les fonctionnalités du bot. Gérer la modération et la sécurité des serveurs. Assurer la vérification des membres. Traiter les tickets d'assistance et les candidatures. Gérer les informations relatives aux projets de YmcCreation. Diagnostiquer les erreurs et améliorer la fiabilité du bot. 
+
+4. Conservation des données 
 
 Certaines données peuvent être conservées temporairement ou durablement selon leur utilité et la configuration du bot.
 
