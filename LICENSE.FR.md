@@ -52,7 +52,9 @@ Les éléments provenant d'une création YMCCREATION ne peuvent pas être extrai
 
 Cela concerne notamment :
 
-code ; scripts ; textures ; modèles ; sprites ; sons ; musiques ; images ; animations ; cartes ; niveaux ; documents ; autres ressources originales. 7. Projets [OPENSOURCE] 
+code ; scripts ; textures ; modèles ; sprites ; sons ; musiques ; images ; animations ; cartes ; niveaux ; documents ; autres ressources originales. 
+
+7. Projets [OPENSOURCE] 
 
 Lorsqu'un projet YMCCREATION comporte clairement la mention [OPENSOURCE] dans sa description officielle, YMCCREATION autorise les utilisateurs à modifier, adapter et réutiliser le projet, sous réserve du respect des règles suivantes.
 
